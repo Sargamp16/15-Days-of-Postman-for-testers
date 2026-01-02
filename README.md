@@ -47,7 +47,6 @@ Newman is Postman’s command-line runner.
 
 ```bash
 npm install -g newman
-```bash
 newman run postman/collections/day01_*.json -e postman/environments/postman_test_env.json
 
 
